@@ -10,7 +10,7 @@ function Home() {
       }}
     >
       <h1 style={{ fontSize: "32px", marginBottom: "20px", color: "#c2185b" }}>
-        Atenção, Andreia! Mensagem para você!
+        Atenção, Andreia! Mensagem para você.
       </h1>
       <div style={{ maxWidth: "600px", margin: "0 auto" }}>
         <ul
