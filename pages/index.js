@@ -22,7 +22,7 @@ function Home() {
           }}
         >
           <li>
-            Atravessei diferentes caminhos para chegar até aqui e te dizer algo
+            Percorri diferentes caminhos para chegar até aqui e te dizer algo
             extremamente importante.
           </li>
           <li>
